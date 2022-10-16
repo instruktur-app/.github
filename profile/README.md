@@ -8,12 +8,12 @@
 
 ### Peserta
 
-- [x] [Helmi]
-- [x] Sylfia
-- [x] Rafii
-- [x] Ranu
-- [x] Syafira
-- [x] Natali
+- [x] [Helmi](https://github.com/orgs/instruktur-app/people/helmitaqiyudin)
+- [x] [Sylfia](https://github.com/orgs/instruktur-app/people/Sylfiaput12)
+- [x] [Rafii](https://github.com/orgs/instruktur-app/people/saidrafiee)
+- [x] [Ranu](https://github.com/orgs/instruktur-app/people/ranuwahyudy)
+- [x] [Syafira](https://github.com/orgs/instruktur-app/people/lullabymav)
+- [x] [Natali](https://github.com/orgs/instruktur-app/people/Natalia1221)
 - [x] Nanik
 - [x] Fachia
 - [x] [Alfi](https://github.com/orgs/instruktur-app/people/alfianifk)
@@ -24,13 +24,13 @@
 - [x] [Caroline](https://github.com/orgs/instruktur-app/people/DillaCarolineK)
 - [x] [Mufrih](https://github.com/orgs/instruktur-app/people/MufrihM)
 - [x] [Rayhan](https://github.com/orgs/instruktur-app/people/MRayhanm) 
-- [x] Novri
-- [x] Citra
-- [x] Farhan
-- [x] Aldi
-- [x] Bagus
-- [x] Jaoza
-- [x] Amrul
-- [x] Made
+- [x] [Novri](https://github.com/orgs/instruktur-app/people/Novrianda)
+- [x] [Citra](https://github.com/orgs/instruktur-app/people/citraFebriawirti)
+- [x] [Farhan](https://github.com/orgs/instruktur-app/people/farhansormin31)
+- [x] [Aldi](https://github.com/orgs/instruktur-app/people/Alditdit)
+- [x] [Bagus](https://github.com/orgs/instruktur-app/people/baguspriyo)
+- [x] [Jaoza](https://github.com/orgs/instruktur-app/people/JaozaHaqq)
+- [x] [Amrul](https://github.com/orgs/instruktur-app/people/amrulsy)
+- [x] [Arya](https://github.com/orgs/instruktur-app/people/aryaputra6)
 
 
